@@ -6,5 +6,5 @@ import { Component, Input } from '@angular/core';
   styles: [`h1 { font-family: Lato; }`]
 })
 export class HelloComponent  {
-  titleText = "pLaNeT Of ThE aPeS";
+  titleText = "tHe rise Of the pLaNeT Of ThE aPeS";
 }
